@@ -1,2 +1,0 @@
-C:\Users\alumno\Documents\thomasiglesias-act5\ejercicio 2\obj\Debug\ejercicio 2.csproj.AssemblyReference.cache
-C:\Users\alumno\Documents\thomasiglesias-act5\ejercicio 2\obj\Debug\ejercicio 2.csproj.CoreCompileInputs.cache
