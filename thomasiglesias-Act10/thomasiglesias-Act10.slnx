@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="ejercicio1/ejercicio1.csproj" />
+  <Project Path="ejercicio2/ejercicio2.csproj" />
+  <Project Path="ejercicio3/ejercicio3.csproj" />
+</Solution>
